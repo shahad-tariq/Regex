@@ -1,0 +1,16 @@
+C:\Users\msi\source\repos\RegexTask\RegexTask\bin\Debug\net5.0\RegexTask.exe
+C:\Users\msi\source\repos\RegexTask\RegexTask\bin\Debug\net5.0\RegexTask.deps.json
+C:\Users\msi\source\repos\RegexTask\RegexTask\bin\Debug\net5.0\RegexTask.runtimeconfig.json
+C:\Users\msi\source\repos\RegexTask\RegexTask\bin\Debug\net5.0\RegexTask.runtimeconfig.dev.json
+C:\Users\msi\source\repos\RegexTask\RegexTask\bin\Debug\net5.0\RegexTask.dll
+C:\Users\msi\source\repos\RegexTask\RegexTask\bin\Debug\net5.0\ref\RegexTask.dll
+C:\Users\msi\source\repos\RegexTask\RegexTask\bin\Debug\net5.0\RegexTask.pdb
+C:\Users\msi\source\repos\RegexTask\RegexTask\obj\Debug\net5.0\RegexTask.csproj.AssemblyReference.cache
+C:\Users\msi\source\repos\RegexTask\RegexTask\obj\Debug\net5.0\RegexTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\msi\source\repos\RegexTask\RegexTask\obj\Debug\net5.0\RegexTask.AssemblyInfoInputs.cache
+C:\Users\msi\source\repos\RegexTask\RegexTask\obj\Debug\net5.0\RegexTask.AssemblyInfo.cs
+C:\Users\msi\source\repos\RegexTask\RegexTask\obj\Debug\net5.0\RegexTask.csproj.CoreCompileInputs.cache
+C:\Users\msi\source\repos\RegexTask\RegexTask\obj\Debug\net5.0\RegexTask.dll
+C:\Users\msi\source\repos\RegexTask\RegexTask\obj\Debug\net5.0\ref\RegexTask.dll
+C:\Users\msi\source\repos\RegexTask\RegexTask\obj\Debug\net5.0\RegexTask.pdb
+C:\Users\msi\source\repos\RegexTask\RegexTask\obj\Debug\net5.0\RegexTask.genruntimeconfig.cache
